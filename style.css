@@ -1,0 +1,54 @@
+<style>
+.banner {
+    background-image: url("./images/bread.jpeg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 400px 100%; 
+}
+
+@font-face {
+    font-family: 'Engagement-Regular';
+    src: url(Engagement-Regular.ttf) format('truetype');
+}
+.five {
+    background-color: #FF4500 ;
+    color: blanchedalmond;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.instruction {
+    display: flex;
+}
+
+.left {
+    flex: 1;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.right {
+    flex: 1;
+    background-color: #FFA07A   ;
+    color: blanchedalmond;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 70px;
+    margin-right: 200px;
+    padding: 20px;
+}
+
+.eight {
+    background-color: #FF4500;
+    text-align: center;
+    height: 40px;
+    padding: 10px 0px 0px 0px;
+    color: blanchedalmond;
+}
+
+
+
+</style>
